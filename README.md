@@ -11,7 +11,7 @@ I am a bioinformatician and data scientist using cutting-edge genomic and statis
 - [ResearchGate](https://www.researchgate.net/profile/Keaka-Farleigh-2)
 
 ## Background
-- Ph.D. candidate in ecology, evolution, and environmental biology at Miami University in the [Global Change Biology Labratory](https://caloprymnus.com/)(Graduating August 2024).
+- Ph.D. candidate in ecology, evolution, and environmental biology at Miami University in the [Global Change Biology Labratory](https://caloprymnus.com/), Graduating August 2024.
 
 ## Coding Languages
 - R
