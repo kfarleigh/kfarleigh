@@ -1,6 +1,6 @@
 ### Hi! Welcome to my GitHub. Check out the links below, and feel free to reach out with any questions or if you'd like to collaborate!
 
-I am a bioinformatician and data scientist using cutting-edge genomic and statistical approaches to investigate the processes and mechanisms that influence genomic and phenomic variation. Code here includes developed code and tools from my previous publications as well as in-development tools that I am currently working on. 
+I am a bioinformatician and data scientist using genomic and statistical approaches to investigate the processes and mechanisms that influence genomic and phenomic variation. Code here includes developed code and tools from my previous publications as well as in-development tools that I am currently working on. 
 
 
 
