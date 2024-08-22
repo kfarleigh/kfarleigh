@@ -11,7 +11,14 @@ I am a bioinformatician and data scientist using next-generation sequencing and 
 - [ResearchGate](https://www.researchgate.net/profile/Keaka-Farleigh-2)
 
 ## Background
-- Ph.D. candidate in ecology, evolution, and environmental biology at Miami University in the [Global Change Biology Labratory](https://caloprymnus.com/), graduating August 2024.
+- National Science Foundation Postdoctoral Research Fellow in Biology
+  - *Project title: Investigating contact zones to understand the genomic and environmental underpinnings of reproductive isolation and adaptive introgression*
+  - Advisors: Dr. Drew Schield, Dr. Jesse Meik
+  - [Schield Lab](https://schieldlab.org/); [Meik Lab](https://jessemeik.weebly.com/)
+- Ph.D. Ecology, Evolution, and Environmental Biology, Miami University (OH), 2024
+  - *Dissertation title: Exploring the genetic basis of local adaptation*
+  - Advisor: Dr. Tereza Jezkova,  [Global Change Biology Labratory](https://caloprymnus.com/) 
+
 
 ## Coding Languages
 - R
