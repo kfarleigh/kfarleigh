@@ -17,7 +17,7 @@ I am a bioinformatician and data scientist using next-generation sequencing and 
   - [Schield Lab](https://schieldlab.org/); [Meik Lab](https://jessemeik.weebly.com/)
 - Ph.D. Ecology, Evolution, and Environmental Biology, Miami University (OH), 2024
   - *Dissertation title: Exploring the genetic basis of local adaptation*
-  - Advisor: Dr. Tereza Jezkova,  [Global Change Biology Labratory](https://caloprymnus.com/) 
+  - Advisor: Dr. Tereza Jezkova,  [Global Change Biology Labratory](https://sites.miamioh.edu/jezkova-lab/) 
 
 
 ## Coding Languages
