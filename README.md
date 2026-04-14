@@ -6,7 +6,7 @@ I am a bioinformatician and data scientist using next-generation sequencing and 
 
 ## Websites and Social Media
 - [Website](https://kfarleigh.github.io/) 
-- [Google Scholar](https://scholar.google.com/citations?user=ZKbwA2oAAAAJ&hl=en)
+- [Google Scholar](https://scholar.google.com/citations?user=kf6jd_sAAAAJ&hl=en&oi=ao)
 - [Linkedin](https://www.linkedin.com/in/keaka-farleigh-5a638211a/)
 - [ResearchGate](https://www.researchgate.net/profile/Keaka-Farleigh-2)
 
